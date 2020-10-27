@@ -1,0 +1,56 @@
+2020-10-24 01:12:44,901 - INFO - Attempting refresh to obtain initial access_token
+2020-10-24 01:12:44,932 - INFO - Refreshing access_token
+2020-10-24 01:12:45,146 - INFO - Persisted input_data 1 into KV Store
+2020-10-24 01:12:45,155 - INFO - Persisted input_data 2 into KV Store
+2020-10-24 01:12:45,164 - INFO - Persisted input_data 3 into KV Store
+2020-10-24 01:12:45,173 - INFO - Persisted input_data 4 into KV Store
+2020-10-24 01:12:45,182 - INFO - Persisted input_data 5 into KV Store
+2020-10-24 01:12:45,190 - INFO - Persisted input_data 6 into KV Store
+2020-10-24 01:12:45,200 - INFO - Persisted input_data 7 into KV Store
+2020-10-24 01:12:45,209 - INFO - Persisted input_data 8 into KV Store
+2020-10-24 01:12:45,217 - INFO - Persisted input_data 9 into KV Store
+2020-10-24 01:12:45,225 - INFO - Persisted input_data 10 into KV Store
+2020-10-24 01:12:45,235 - INFO - Persisted input_data 11 into KV Store
+2020-10-24 01:12:45,244 - INFO - Persisted input_data 12 into KV Store
+2020-10-24 01:12:45,252 - INFO - Persisted input_data 13 into KV Store
+2020-10-24 01:12:45,261 - INFO - Persisted input_data 14 into KV Store
+2020-10-24 01:12:45,270 - INFO - Persisted input_data 15 into KV Store
+2020-10-24 01:12:45,281 - INFO - Persisted input_data 16 into KV Store
+2020-10-24 01:12:45,289 - INFO - Persisted input_data 17 into KV Store
+2020-10-24 01:12:45,297 - INFO - Persisted input_data 18 into KV Store
+2020-10-24 01:12:45,306 - INFO - Persisted input_data 19 into KV Store
+2020-10-24 01:12:45,315 - INFO - Persisted input_data 20 into KV Store
+2020-10-24 01:12:45,324 - INFO - Persisted input_data 21 into KV Store
+2020-10-24 01:12:45,333 - INFO - Persisted input_data 22 into KV Store
+2020-10-24 01:12:45,343 - INFO - Persisted input_data 23 into KV Store
+2020-10-24 01:12:45,351 - INFO - Persisted input_data 24 into KV Store
+2020-10-24 01:12:45,363 - INFO - Persisted input_data 25 into KV Store
+2020-10-24 01:12:45,374 - INFO - Persisted input_data 26 into KV Store
+2020-10-24 01:12:45,384 - INFO - Persisted input_data 27 into KV Store
+2020-10-24 01:12:45,393 - INFO - Persisted input_data 28 into KV Store
+2020-10-24 01:12:45,403 - INFO - Persisted input_data 29 into KV Store
+2020-10-24 01:12:45,413 - INFO - Persisted input_data 30 into KV Store
+2020-10-24 01:12:45,422 - INFO - Persisted input_data 31 into KV Store
+2020-10-24 01:12:45,431 - INFO - Persisted input_data 32 into KV Store
+2020-10-24 01:12:45,439 - INFO - Persisted input_data 33 into KV Store
+2020-10-24 01:12:45,449 - INFO - Persisted input_data 34 into KV Store
+2020-10-24 01:12:45,458 - INFO - Persisted input_data 35 into KV Store
+2020-10-24 01:12:45,468 - INFO - Persisted input_data 36 into KV Store
+2020-10-24 01:12:45,478 - INFO - Persisted input_data 37 into KV Store
+2020-10-24 01:12:45,489 - INFO - Persisted input_data 38 into KV Store
+2020-10-24 01:12:45,498 - INFO - Persisted input_data 39 into KV Store
+2020-10-24 01:12:45,507 - INFO - Persisted input_data 40 into KV Store
+2020-10-24 01:12:45,518 - INFO - Persisted input_data 41 into KV Store
+2020-10-24 01:12:45,530 - INFO - Persisted input_data 42 into KV Store
+2020-10-24 01:12:45,539 - INFO - Persisted input_data 43 into KV Store
+2020-10-24 01:12:45,547 - INFO - Persisted input_data 44 into KV Store
+2020-10-24 01:12:45,557 - INFO - Persisted input_data 45 into KV Store
+2020-10-24 01:12:45,566 - INFO - Persisted input_data 46 into KV Store
+2020-10-24 01:12:45,575 - INFO - Persisted input_data 47 into KV Store
+2020-10-24 01:12:45,586 - INFO - Persisted input_data 48 into KV Store
+2020-10-24 01:12:45,598 - INFO - Persisted input_data 49 into KV Store
+2020-10-24 01:12:45,606 - INFO - Persisted input_data 50 into KV Store
+2020-10-24 01:13:59,836 - INFO - Mapper Task : input_data 50 successfully completed
+2020-10-24 01:14:04,099 - INFO - Partition Task successfully completed
+2020-10-24 01:14:04,494 - INFO - Fetched final data for Master from KV Store
+2020-10-24 01:14:04,499 - INFO - 45.16.202.175 - - [24/Oct/2020 01:14:04] "[37mGET /run_mapred/JekyllHyde.txt/50/50/map_wc/reduce_wc HTTP/1.1[0m" 200 -
